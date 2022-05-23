@@ -19,7 +19,7 @@ Repeat the process until the total number of attacks, or the Objective function,
 ### STEP 5:
 Display the necessary states and the time taken.
 ## PROGRAM
-```
+```python
 %matplotlib inline
 import matplotlib.pyplot as plt
 import random
