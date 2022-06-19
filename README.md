@@ -17,6 +17,9 @@ Make a decision whether to change the state with a smaller objective function va
 Repeat the process until the total number of attacks, or the Objective function, is zero.
 ### STEP 5:
 Display the necessary states and the time taken.
+
+<br><br><br><br>
+
 ## PROGRAM:
 ```
 %matplotlib inline
