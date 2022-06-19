@@ -1,12 +1,11 @@
 # Hill Climbing Algorithm for Eight Queens Problem
-## AIM
-
+## AIM:
 To develop a code to solve eight queens problem using the hill-climbing algorithm.
 
-## THEORY
+## THEORY:
 To implement Hill Climbing Algorithm for 8 queens problem
 
-## DESIGN STEPS
+## DESIGN STEPS:
 ### STEP 1:
 Import the necessary libraries
 
@@ -18,8 +17,8 @@ Make a decision whether to change the state with a smaller objective function va
 Repeat the process until the total number of attacks, or the Objective function, is zero.
 ### STEP 5:
 Display the necessary states and the time taken.
-## PROGRAM
-```python
+## PROGRAM:
+```
 %matplotlib inline
 import matplotlib.pyplot as plt
 import random
@@ -196,7 +195,7 @@ plt.show()
 ![6](https://user-images.githubusercontent.com/75234991/169823706-bfa14c86-ee2d-4fe3-84a0-69032f633319.jpg)
 
 
-## Time Complexity Plot
+## TIME COMPLEXITY PLOT:
 #### Plot a graph for various value of N and time(seconds)
 
 ![7](https://user-images.githubusercontent.com/75234991/169823731-84e70f69-a78e-4f29-bea2-6556cfce7353.jpg)
