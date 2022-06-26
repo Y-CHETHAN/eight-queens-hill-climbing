@@ -188,6 +188,7 @@ plt.plot(n_values,time_taken)
 plt.show()
 ```
 
+<br><br><br><br><br><br><br>
 ## OUTPUT:
 
 ![1](https://user-images.githubusercontent.com/75234991/169823591-41642bfb-9e2b-4410-a0e0-d7af8fbaa386.jpg)
