@@ -8,7 +8,6 @@ To implement Hill Climbing Algorithm for 8 queens problem
 ## DESIGN STEPS:
 ### STEP 1:
 Import the necessary libraries
-
 ### STEP 2:
 Define the Intial State and calculate the objective function for that given state
 ### STEP 3:
@@ -21,6 +20,12 @@ Display the necessary states and the time taken.
 <br><br><br><br>
 
 ## PROGRAM:
+```
+/*
+Developed by        : Y Chethan
+Registration Number : 212220230008
+*/
+```
 ```
 %matplotlib inline
 import matplotlib.pyplot as plt
