@@ -17,8 +17,6 @@ Repeat the process until the total number of attacks, or the Objective function,
 ### STEP 5:
 Display the necessary states and the time taken.
 
-<br><br><br><br>
-
 ## PROGRAM:
 ```
 /*
@@ -188,7 +186,6 @@ plt.plot(n_values,time_taken)
 plt.show()
 ```
 
-<br><br><br><br><br><br><br><br><br><br><br>
 ## OUTPUT:
 
 ![1](https://user-images.githubusercontent.com/75234991/169823591-41642bfb-9e2b-4410-a0e0-d7af8fbaa386.jpg)
@@ -202,8 +199,6 @@ plt.show()
 ![5](https://user-images.githubusercontent.com/75234991/169823679-590649a5-1480-4b20-a610-f186e7855929.jpg)
 
 ![6](https://user-images.githubusercontent.com/75234991/169823706-bfa14c86-ee2d-4fe3-84a0-69032f633319.jpg)
-
-<br><br><br><br><br><br><br><br><br>
 
 ## TIME COMPLEXITY PLOT:
 #### Plot a graph for various value of N and time(seconds)
